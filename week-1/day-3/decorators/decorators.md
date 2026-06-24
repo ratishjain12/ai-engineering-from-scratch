@@ -8,6 +8,8 @@ Think of it like this:
 - You want to add something before/after it runs
 - Instead of editing the function itself, you wrap it with another function
 
+![alt text](image.png)
+
 ### examples
 
 - retry
