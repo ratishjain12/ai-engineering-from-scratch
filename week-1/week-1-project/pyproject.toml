@@ -1,0 +1,10 @@
+[project]
+name = "week-1-project-cli-task-manager"
+version = "0.1.0"
+description = "building production grade cli tool to learn concepts of OOPs, File Handling and Context Managers"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "typer[all]>=0.26.8",
+    "rich>=13.0.0",
+]
